@@ -26,14 +26,14 @@
   width: 140px;
 }
 .wrapper .vazifalar {
-  color: blueviolet;
-  position: white;
+  color: white;
+  position: relative;
   height: 40px;
   width: 150px;
 }
 .wrapper .online-kurslar {
-  color: blueviolet;
-  position: white;
+  color: white;
+  position: relative;
   height: 40px;
   width: 240px;
 }
